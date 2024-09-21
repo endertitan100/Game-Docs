@@ -15,5 +15,7 @@
 - Toddler Kicking Sim
 
 Team Nare vs Team Dwele
-Team Nare tries to get into Team Dwele
+Team Nare tries to get into Team Dwele's Base
 Once Team Nare gets into Team Dwele reverses goal
+Team Dwele places traps to stop/delay enemy from getting in
+Bomb/Toxic Fumes somewhere

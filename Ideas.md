@@ -19,5 +19,3 @@ Team Nare tries to get into Team Dwele's Base
 Once Team Nare gets into Team Dwele reverses goal
 Team Dwele places booby traps to stop/delay enemy from getting in
 Bomb/Toxic Fumes somewhere
-
-TESTING 123

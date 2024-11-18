@@ -11,4 +11,8 @@
 	- Final Draft
 	- Presentation
 	- Reflection
-- 
+- Progress Reminder
+- ProjectQ
+- 3 Core Ideas w/ Mind map
+- Journal
+- JStor

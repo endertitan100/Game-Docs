@@ -16,3 +16,4 @@
 - 3 Core Ideas w/ Mind map
 - Journal
 - JStor
+- 

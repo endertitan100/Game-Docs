@@ -16,5 +16,3 @@
 - 3 Core Ideas w/ Mind map
 - Journal
 - JStor
-
-[[`Drawing 2024-11-18 14.01.13.excalidraw]]

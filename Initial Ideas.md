@@ -1,2 +1,4 @@
 - Computer Graphics over time
+- Why the do gamers have a GPU but not a physics card
+- how your computer can let you play games
 - 

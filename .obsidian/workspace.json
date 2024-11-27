@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c68ebb5085ba6f4",
+        "id": "d36c8b3132ff5e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "40038d6f7a476821",
+            "id": "a0298e33996d95a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40038d6f7a476821",
+  "active": "a0298e33996d95a4",
   "lastOpenFiles": [
+    "Initial Ideas.md",
     "Taught Skills.md",
     "EPQ TODO.md",
     "What to journal.md",
-    "Initial Ideas.md",
     "temp.txt",
     "New Text Document.txt"
   ]

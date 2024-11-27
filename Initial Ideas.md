@@ -4,4 +4,3 @@
 - How Valve Software cornered a market
 - The influence of Fashion on politics
 - Crowthorne and it's local area
-- 

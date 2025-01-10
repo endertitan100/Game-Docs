@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taught Skills.md",
+                "file": "Primary Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taught Skills"
+              "title": "Primary Research"
+            }
+          },
+          {
+            "id": "6e76f1d611efa6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taught Skills.md"
+                "file": "Research.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Taught Skills"
+              "title": "Outline of Research"
             }
           },
           {
@@ -173,11 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0298e33996d95a4",
+  "active": "6e76f1d611efa6c7",
   "lastOpenFiles": [
-    "What to journal.md",
     "Primary Research.md",
+    "Research.md",
     "Taught Skills.md",
+    "What to journal.md",
     "Excalidraw/Drawing 2024-12-04 14.06.56.excalidraw.md",
     "Excalidraw",
     "Initial Ideas.md",
